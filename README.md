@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hakeem Adam
 
 _Media Artist and Technical Artist_
 
