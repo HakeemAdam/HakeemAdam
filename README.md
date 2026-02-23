@@ -34,9 +34,18 @@ _Media and Technical Artist_
 
   ### [L-System Gym](https://hakeemadam.info/algorithms-and-applications#designing-an-l-system-playground)
   _Art: Interactive L-System Playground with animations_
-  - **Tech: `cpp` `raylib`
-
+  - **Tech:** `cpp` `raylib`
   ---
+  ## Technologies
+  - Houdini
+  - Unreal Engine
+  - Cpp
+  - Python
+  - Pure Data
+  - Max MSP
+  - SuperCollider
+  - Godot
+---
 
 
 
