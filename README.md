@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-_Ghanaian Media Artist and Technical Artist_
+_Media Artist and Technical Artist_
 
 ---
 
