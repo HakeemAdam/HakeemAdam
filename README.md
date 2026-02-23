@@ -1,12 +1,12 @@
 # Hakeem Adam
 
-_Media Artist and Technical Artist_
+_Media and Technical Artist_
 
 ---
 
 [Website](https://hakeemadam.info)
-[Technical Portfolio](https://hakeemadam.github.io/procedural-tools/)
-[Technical Blog](https://hakeemadam.info/procedural-tools)
+[Portfolio](https://hakeemadam.github.io/procedural-tools/)
+[Blog](https://hakeemadam.info/procedural-tools)
 [Email](mailto:tuffassassin11@gmail.com)
 
 ---
