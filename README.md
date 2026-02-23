@@ -32,6 +32,10 @@ _Media and Technical Artist_
   _Tool: Houdini project launcher with SQLite database, categories, search_
   - **Tech:** `godot` `python` `sqlite`
 
+  ### [L-System Gym](https://hakeemadam.info/algorithms-and-applications#designing-an-l-system-playground)
+  _Art: Interactive L-System Playground with animations_
+  - **Tech: `cpp` `raylib`
+
   ---
 
 
